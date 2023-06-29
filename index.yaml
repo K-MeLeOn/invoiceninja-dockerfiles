@@ -24,7 +24,7 @@ entries:
       version: 16.x.x
     description: A Helm chart to install Invoice Ninja
     digest: 353ee2609def7deb5b40bd39636746852e1289b4811b1c5ba9a3282c1fff1b4a
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -33,10 +33,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.10.1/invoiceninja-0.10.1.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.10.1/invoiceninja-0.10.1.tgz
     version: 0.10.1
   - apiVersion: v2
     appVersion: 5.5.49
@@ -61,7 +61,7 @@ entries:
       version: 16.x.x
     description: A Helm chart to install Invoice Ninja
     digest: 4b65ba91da3c0cf9b765c080e747d8fdd32cf01aadaac1ed8cb94ddcd2258808
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -70,10 +70,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.10.0/invoiceninja-0.10.0.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.10.0/invoiceninja-0.10.0.tgz
     version: 0.10.0
   - apiVersion: v2
     appVersion: 5.3.80
@@ -98,7 +98,7 @@ entries:
       version: 14.x.x
     description: A Helm chart to install Invoice Ninja
     digest: 18000324b29782c82276a1514014cf579859b4e84854d9608836b03cc811c1bf
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -107,10 +107,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.9.2/invoiceninja-0.9.2.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.9.2/invoiceninja-0.9.2.tgz
     version: 0.9.2
   - apiVersion: v2
     appVersion: 5.3.39
@@ -135,7 +135,7 @@ entries:
       version: 14.x.x
     description: A Helm chart to install Invoice Ninja
     digest: 955d43c44f36584c0ba5863ca84e8607176d21de1c5ce000aee42b95cf9a50b1
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -144,10 +144,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.9.1/invoiceninja-0.9.1.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.9.1/invoiceninja-0.9.1.tgz
     version: 0.9.1
   - apiVersion: v2
     appVersion: 5.3.29
@@ -172,7 +172,7 @@ entries:
       version: 14.x.x
     description: A Helm chart to install Invoice Ninja
     digest: 6d09a27d44778630df4d49f9bc1ff4c62f0911607f0135c803997e62bc16a617
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -181,10 +181,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.9.0/invoiceninja-0.9.0.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.9.0/invoiceninja-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v2
     appVersion: 5.2.12
@@ -209,7 +209,7 @@ entries:
       version: 14.x.x
     description: A Helm chart to install Invoice Ninja
     digest: f4a3053755a56602450df799fd52d66ef410b62eb0abb8b4c6d92018339d5107
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -218,10 +218,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.8.1/invoiceninja-0.8.1.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.8.1/invoiceninja-0.8.1.tgz
     version: 0.8.1
   - apiVersion: v2
     appVersion: 5.2.12
@@ -246,7 +246,7 @@ entries:
       version: 14.x.x
     description: A Helm chart to install Invoice Ninja
     digest: b674a4f2b02be147263907633ab815f41524a15e8b39d1c4c646b3667bfb45dc
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -255,10 +255,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.8.0/invoiceninja-0.8.0.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.8.0/invoiceninja-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v2
     appVersion: 5.2.10
@@ -283,7 +283,7 @@ entries:
       version: 14.x.x
     description: A Helm chart to install Invoice Ninja
     digest: 7e2ff935d6c62a67ccc67af231acf07c6c20ee6e74175e49621d32d81713cc7f
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -292,10 +292,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.7.8/invoiceninja-0.7.8.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.7.8/invoiceninja-0.7.8.tgz
     version: 0.7.8
   - apiVersion: v2
     appVersion: 5.2.10
@@ -320,7 +320,7 @@ entries:
       version: 14.x.x
     description: A Helm chart to install Invoice Ninja
     digest: 153b151f54e5fa290207a733d89b2dbbb045d0a8516141dab20367bb03a9c14b
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -329,10 +329,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.7.7/invoiceninja-0.7.7.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.7.7/invoiceninja-0.7.7.tgz
     version: 0.7.7
   - apiVersion: v2
     appVersion: 5.2.10
@@ -357,7 +357,7 @@ entries:
       version: 14.x.x
     description: A Helm chart to install Invoice Ninja
     digest: 9c3f7f25dc7f01cb3bf334d9d656f5db5531d8f24f59f7c9ecc3fd50cbbb76ee
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -366,10 +366,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.7.6/invoiceninja-0.7.6.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.7.6/invoiceninja-0.7.6.tgz
     version: 0.7.6
   - apiVersion: v2
     appVersion: 5.2.10
@@ -394,7 +394,7 @@ entries:
       version: 14.x.x
     description: A Helm chart to install Invoice Ninja
     digest: 2bb97c1b9c1e72ad8d84b5d504b62dfc60988332cfe91ba31ae28b8e6f26651b
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -403,10 +403,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.7.5/invoiceninja-0.7.5.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.7.5/invoiceninja-0.7.5.tgz
     version: 0.7.5
   - apiVersion: v2
     appVersion: 5.2.10
@@ -431,7 +431,7 @@ entries:
       version: 14.x.x
     description: A Helm chart to install Invoice Ninja
     digest: d9ddeaa7c983684c6099e025affb40c73850a5597f1e6663c5eb98751099a0b5
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -440,10 +440,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.7.4/invoiceninja-0.7.4.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.7.4/invoiceninja-0.7.4.tgz
     version: 0.7.4
   - apiVersion: v2
     appVersion: 5.2.10
@@ -467,7 +467,7 @@ entries:
       version: 14.x.x
     description: A Helm chart to install Invoice Ninja
     digest: f4db04550b547478089ff0e34bb4ec5080d802c6631cf60cc244f52cc2e6b4e8
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -476,10 +476,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.7.3/invoiceninja-0.7.3.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.7.3/invoiceninja-0.7.3.tgz
     version: 0.7.3
   - apiVersion: v2
     appVersion: 5.2.10
@@ -503,7 +503,7 @@ entries:
       version: 14.x.x
     description: A Helm chart to install Invoice Ninja
     digest: ef856fef855bf3f0fc73c3f9ec0ccba8cf70469e3a59c7961d8b1936a9f117ad
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -512,10 +512,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.7.2/invoiceninja-0.7.2.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.7.2/invoiceninja-0.7.2.tgz
     version: 0.7.2
   - apiVersion: v2
     appVersion: 5.2.10
@@ -539,7 +539,7 @@ entries:
       version: 14.x.x
     description: A Helm chart to install Invoice Ninja
     digest: 3c64989fbd864ae9c5017cf0dffaed49743eec4811a882a264ca812a32a1a2dd
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -548,10 +548,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.7.1/invoiceninja-0.7.1.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.7.1/invoiceninja-0.7.1.tgz
     version: 0.7.1
   - apiVersion: v2
     appVersion: 5.2.10
@@ -575,7 +575,7 @@ entries:
       version: 14.x.x
     description: A Helm chart to install Invoice Ninja
     digest: 9f0b745bcd82a466ea78fa72c7756d4e03e814e8417e599b4086c689c14e664c
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -584,10 +584,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.7.0/invoiceninja-0.7.0.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.7.0/invoiceninja-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
     appVersion: 5.2.10
@@ -611,7 +611,7 @@ entries:
       version: 12.x.x
     description: A Helm chart to install Invoice Ninja
     digest: 34d301a8a8f4c428d11ba20897b03050092d49aed4efa657d1078adabde75d48
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -620,10 +620,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.6.0/invoiceninja-0.6.0.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.6.0/invoiceninja-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
     appVersion: 5.1.64
@@ -647,7 +647,7 @@ entries:
       version: 12.9.x
     description: A Helm chart to install Invoice Ninja
     digest: d5d48602e66f13c78544b7541216c8bc155692ad54a11f46a8eb95e86b2d9398
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -656,10 +656,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.5.1/invoiceninja-0.5.1.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.5.1/invoiceninja-0.5.1.tgz
     version: 0.5.1
   - apiVersion: v2
     appVersion: 5.1.64
@@ -683,7 +683,7 @@ entries:
       version: 12.9.x
     description: A Helm chart to install Invoice Ninja
     digest: ee37e7938b33c56ddb20effb306880bb374b0d224d6b4388c156f19846c5e16e
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -692,10 +692,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.5.0/invoiceninja-0.5.0.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.5.0/invoiceninja-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
     appVersion: 5.1.61
@@ -719,7 +719,7 @@ entries:
       version: 12.9.x
     description: A Helm chart to install Invoice Ninja
     digest: c903dbe4524bc9536885aeb7023d954c235e318331ed8ca29b3c3acc04b7861c
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -728,10 +728,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.4.2/invoiceninja-0.4.2.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.4.2/invoiceninja-0.4.2.tgz
     version: 0.4.2
   - apiVersion: v2
     appVersion: 5.1.61
@@ -755,7 +755,7 @@ entries:
       version: 12.9.x
     description: A Helm chart to install Invoice Ninja
     digest: 63737d89738fc6ab3173f606cd3fa51c9060d5b9635f3601f4a3130a58dbfd73
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -764,10 +764,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.4.1/invoiceninja-0.4.1.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.4.1/invoiceninja-0.4.1.tgz
     version: 0.4.1
   - apiVersion: v2
     appVersion: 5.1.61
@@ -791,7 +791,7 @@ entries:
       version: 12.9.x
     description: A Helm chart to install Invoice Ninja
     digest: f8286a5ed7d869299c7fb0b002c37d8162414bf5bd8c24bb72ef9c5623a6b158
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -800,10 +800,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.4.0/invoiceninja-0.4.0.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.4.0/invoiceninja-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v2
     appVersion: 5.1.41
@@ -827,7 +827,7 @@ entries:
       version: 12.9.x
     description: A Helm chart to install Invoice Ninja
     digest: f080bd9e105db23c4721dc8670d4ea98e66ebc33eb356af6ab424ffd3516c63d
-    home: https://invoiceninja.github.io/dockerfiles
+    home: https://k-meleon.github.io/invoiceninja-dockerfiles
     keywords:
     - invoiceninja
     maintainers:
@@ -836,10 +836,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.3.2/invoiceninja-0.3.2.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.3.2/invoiceninja-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v2
     appVersion: 5.1.35
@@ -872,10 +872,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.3.1/invoiceninja-0.3.1.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.3.1/invoiceninja-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v2
     appVersion: 5.1.35
@@ -908,10 +908,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.3.0/invoiceninja-0.3.0.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.3.0/invoiceninja-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v2
     appVersion: 5.1.32
@@ -944,10 +944,10 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.2.0/invoiceninja-0.2.0.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.2.0/invoiceninja-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 5.1.30
@@ -976,9 +976,9 @@ entries:
     name: invoiceninja
     sources:
     - https://github.com/invoiceninja/invoiceninja
-    - https://github.com/invoiceninja/dockerfiles
+    - https://k-meleon.github.io/invoiceninja-dockerfiles
     type: application
     urls:
-    - https://github.com/invoiceninja/dockerfiles/releases/download/invoiceninja-0.1.0/invoiceninja-0.1.0.tgz
+    - https://k-meleon.github.io/invoiceninja-dockerfiles/releases/download/invoiceninja-0.1.0/invoiceninja-0.1.0.tgz
     version: 0.1.0
 generated: "2022-12-24T06:48:59.969193898Z"
